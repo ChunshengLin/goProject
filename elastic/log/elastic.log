@@ -1,0 +1,210 @@
+{"level":"INFO","ts":"2022-03-03T10:50:03.760+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T10:50:03.763+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T10:50:06.263+0800","msg":"createQuerys orderId:1, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T10:50:48.788+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T10:50:48.790+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T10:50:50.835+0800","msg":"createQuerys orderId:1, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T10:52:46.355+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T10:52:46.357+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"ERROR","ts":"2022-03-03T10:52:49.089+0800","msg":"search params bind failed, err:EOF"}
+{"level":"INFO","ts":"2022-03-03T10:59:45.675+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T10:59:45.677+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T10:59:46.598+0800","msg":"createQuerys orderId:1, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:00:34.302+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:00:53.299+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:33:34.981+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:33:34.986+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:33:40.161+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:33:41.756+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:33:45.088+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:35:05.112+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:35:05.116+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:35:07.253+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T11:44:23.077+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:44:23.079+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:44:27.734+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T11:45:05.204+0800","msg":"search search failed, err:<nil>"}
+{"level":"INFO","ts":"2022-03-03T11:47:57.615+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:47:57.620+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:48:02.107+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T11:48:04.635+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T11:48:30.098+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:48:30.101+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:48:32.937+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T11:48:34.990+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T11:50:09.291+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T11:50:09.295+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T11:50:13.796+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T11:50:46.350+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T13:39:12.483+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:39:12.491+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:39:18.045+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T13:42:19.251+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:42:19.255+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:42:24.260+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T13:42:24.327+0800","msg":"search search failed, res is nil"}
+{"level":"ERROR","ts":"2022-03-03T13:42:43.944+0800","msg":"search params bind failed, err:invalid character '/' after object key:value pair"}
+{"level":"INFO","ts":"2022-03-03T13:43:44.857+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:43:44.861+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"ERROR","ts":"2022-03-03T13:43:52.312+0800","msg":"search params bind failed, err:invalid character '/' after object key:value pair"}
+{"level":"ERROR","ts":"2022-03-03T13:44:09.438+0800","msg":"search params bind failed, err:invalid character '/' looking for beginning of object key string"}
+{"level":"INFO","ts":"2022-03-03T13:45:06.487+0800","msg":"createQuerys orderId:1, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T13:45:06.502+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T13:48:01.431+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:48:01.436+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:48:03.617+0800","msg":"createQuerys orderId:1, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T13:49:11.496+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T13:49:30.375+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T13:55:09.336+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:55:09.338+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:55:15.328+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T13:55:15.337+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T13:56:37.789+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:56:37.791+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:56:40.469+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T13:57:25.852+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T13:57:25.855+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T13:58:10.191+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T13:58:10.678+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:00:30.070+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:00:30.072+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:00:32.373+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:00:32.387+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:00:48.388+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:00:48.391+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:00:50.875+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:02:58.799+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:02:58.802+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:03:03.016+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:03:03.023+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:03:32.618+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:03:32.620+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:03:35.055+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:03:35.075+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:03:36.085+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:03:36.091+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:04:16.043+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:04:16.046+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:04:30.421+0800","msg":"createQuerys orderId:, name:, productId:, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:19:50.931+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:19:53.034+0800","msg":"validIndex create index successed, index:elastic_order"}
+{"level":"ERROR","ts":"2022-03-03T14:21:31.403+0800","msg":"search params bind failed, err:json: cannot unmarshal string into Go struct field EsSearchOrderReq.lowPrice of type float64"}
+{"level":"INFO","ts":"2022-03-03T14:21:47.805+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:22:46.017+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:22:46.019+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:23:06.206+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:23:34.524+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:23:54.349+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:24:53.826+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:24:53.830+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:25:25.226+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:26:58.167+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:28:45.821+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:28:45.824+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:28:50.360+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:28:50.370+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:28:51.920+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:28:51.928+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:29:30.227+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:29:30.229+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:29:32.671+0800","msg":"createQuerys orderId:1, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:29:32.688+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:29:33.689+0800","msg":"createQuerys orderId:1, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:29:33.695+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:31:44.853+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:31:44.856+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:31:47.787+0800","msg":"createQuerys orderId:1, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:32:01.060+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:32:01.073+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:32:20.373+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:32:20.376+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:32:23.056+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:32:23.068+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:32:39.814+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:32:39.825+0800","msg":"search search failed, res is nil"}
+{"level":"ERROR","ts":"2022-03-03T14:32:50.001+0800","msg":"search params bind failed, err:invalid character '/' looking for beginning of object key string"}
+{"level":"INFO","ts":"2022-03-03T14:33:14.508+0800","msg":"createQuerys orderId:0, name:zhao, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:33:14.539+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:33:34.327+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:33:34.339+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:33:35.909+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:33:35.915+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:33:58.402+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:33:58.404+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:34:00.669+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:40:10.352+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:40:10.354+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:40:17.469+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:40:17.477+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:40:30.164+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:40:30.166+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:40:32.836+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:43:57.442+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:43:57.444+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:44:05.088+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T14:44:05.094+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T14:44:29.879+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:44:29.881+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:44:32.979+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T14:54:14.366+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T14:54:14.376+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T14:54:19.710+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:03:14.010+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:03:14.015+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:03:28.583+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:04:07.525+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:04:07.527+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:04:09.517+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:04:43.280+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:04:43.283+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:04:52.721+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:04:52.723+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:04:54.850+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:05:44.056+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:05:44.058+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:05:46.582+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:05:54.336+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:06:03.668+0800","msg":"createQuerys orderId:0, name:赵, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:06:16.134+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T15:06:16.140+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T15:07:04.814+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:07:04.816+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:07:09.003+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:08:29.243+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:08:29.246+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:08:35.073+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"ERROR","ts":"2022-03-03T15:08:35.080+0800","msg":"search search failed, res is nil"}
+{"level":"INFO","ts":"2022-03-03T15:09:44.557+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:09:44.559+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:11:19.793+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:11:19.796+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:12:58.550+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:12:58.552+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:14:26.156+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:14:26.158+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:17:49.548+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:17:49.550+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:18:10.509+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:35:57.854+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:35:57.857+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:36:30.299+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:37:21.719+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:38:31.950+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:38:31.953+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T15:38:36.565+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T15:47:40.842+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T15:47:40.845+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T16:56:30.686+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T16:56:30.695+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T16:56:51.063+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T16:57:05.980+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T17:03:00.101+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T17:03:00.104+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T17:03:20.575+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T17:03:20.577+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T17:03:54.991+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-03T17:03:54.994+0800","msg":"validIndex index exist, index:elastic_order"}
+{"level":"INFO","ts":"2022-03-03T17:04:01.228+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-03T17:04:51.580+0800","msg":"createQuerys orderId:0, name:, productId:0, productName:"}
+{"level":"INFO","ts":"2022-03-07T10:47:20.917+0800","msg":"NewEsClient create EsClient success"}
+{"level":"INFO","ts":"2022-03-07T10:47:20.930+0800","msg":"validIndex index exist, index:elastic_order"}
